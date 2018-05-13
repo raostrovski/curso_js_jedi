@@ -1,4 +1,6 @@
 # curso_js_jedi
 ## Formação Javascript Mestre Jedi
 
-Faça a isncrição agora mesmo e seja um mestre js jedi
+Faça a inscrição agora mesmo e seja um mestre js jedi
+
+Seja bem vindo a sua formação JS
